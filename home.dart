@@ -37,7 +37,7 @@ class _HomeScreenState extends State<HomeScreen> {
           mainAxisAlignment: MainAxisAlignment.end,
           children: [
             Text(
-              "EVCİL PATİ",
+              "LOGIN",
               style: GoogleFonts.bebasNeue(
                 fontSize: 30.0,
                 fontWeight: FontWeight.bold,
